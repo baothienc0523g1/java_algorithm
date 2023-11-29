@@ -5,6 +5,9 @@ import java.util.Map;
 
 public class Day1No262 {
 
+    /**
+     * input: String
+     * count how many times every character appear*/
     static Map<Character, Integer> characterAppearCount(String inputString) {
         Map<Character, Integer> countMap = new HashMap<>();
 
@@ -16,10 +19,5 @@ public class Day1No262 {
             countMap.put(tempChar, countMap.get(tempChar) + 1);
         }
         return countMap;
-    }
-
-    public static void main(String[] args) {
-        String a = "aaabbbccccd";
-        System.out.println(characterAppearCount(a));
     }
 }
