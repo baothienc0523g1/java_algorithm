@@ -1,3 +1,5 @@
+package Algorithm;
+
 public class Day1No261 {
     /**
      * input: int number
