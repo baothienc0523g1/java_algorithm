@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1150dbf-faf0-4f9f-b17d-39502bde2a73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Axios test/axios_test/src/components/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Axios test/axios_test/src/components/service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/controller/RestInterviewDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/controller/RestInterviewerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/controller/RestInterviewerTypeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/dto/InterviewDetailDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/model/InterviewDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/model/InterviewResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/model/Interviewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/model/InterviewerMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/model/InterviewerType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/model/InterviewerTypeDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/repository/InterviewDetailRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/repository/InterviewResultRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/repository/InterviewerMasterRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/repository/InterviewerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/repository/InterviewerTypeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/service/InterviewDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/service/InterviewResultService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/service/InterviewerMasterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/service/InterviewerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/service/InterviewerTypeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/service/impl/InterviewDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/service/impl/InterviewResultService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/service/impl/InterviewerMasterServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/service/impl/InterviewerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_BE/exam/src/main/java/com/exam/service/impl/InterviewerTypeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_FE/exam/src/components/DeleteModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_FE/exam/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_FE/exam/src/components/InterviewDetailAdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_FE/exam/src/components/InterviewerList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_FE/exam/src/getParseDate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_FE/exam/src/service/interviewDetailService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_FE/exam/src/service/interviewerService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_FE/exam/src/service/interviewerTypeService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EXAM_FE/prototype/MyCss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Project/skr/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Project/skr/src/components/MainTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My_Project/skr/src/style/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/commons/first_init.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/config/first_init.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/controller/first_init.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/dto/first_init.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/jwt/JwtUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/model/first_init.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/payload/request/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/payload/response/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/repository/first_init.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/service/first_init.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/service/impl/first_init.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/utilities/first_init.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_BE_Template/dating/src/main/java/com/dating/validation/first_init.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/config/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/controller/SecurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/exmp/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/exmp/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/exmp/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/exmp/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/exmp/LikeDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/exmp/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/exmp/MessageStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/exmp/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/exmp/PrivacyPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/exmp/RelationshipStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/exmp/Relationships.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/exmp/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/jwt/JwtFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/jwt/JwtUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/model/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/model/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/model/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/model/MessageStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/payload/request/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/payload/response/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/repository/IAccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/service/impl/AccountDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating/src/main/java/api/service/impl/AccountDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating_fix/demo/src/main/java/com/example/demo/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating_fix/demo/src/main/java/com/example/demo/model/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating_fix/demo/src/main/java/com/example/demo/model/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating_fix/demo/src/main/java/com/example/demo/model/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating_fix/demo/src/main/java/com/example/demo/model/MessageStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Restful_API/dating_fix/demo/src/main/java/com/example/demo/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_algorithm/untitled/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Day1No262.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Day1No262.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Yq4YkzySjesHk3BTSUiCsk4cAn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/GIT - Bai tap/c0523g1_bui_bao_thien_module6/Algorithm_Resolver",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Day1No262" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Day1No262" />
+      <module name="Algorithm_Resolver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Day1No262" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1150dbf-faf0-4f9f-b17d-39502bde2a73" name="Changes" comment="" />
+      <created>1701239825965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701239825965</updated>
+      <workItem from="1701239826977" duration="4412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
