@@ -1,7 +1,5 @@
 package Algorithm;
 
-import java.util.Collections;
-
 public class Day2No264 {
 
     /**
