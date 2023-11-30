@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1150dbf-faf0-4f9f-b17d-39502bde2a73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/Day2No263.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Day2No264.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Axios test/.idea/Axios test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Axios test/axios_test/.idea/axios_test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Axios test/axios_test/src/components/List.js" afterDir="false" />
@@ -111,9 +109,8 @@
       <change afterPath="$PROJECT_DIR$/../test_algorithm/untitled/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test_algorithm/untitled/out/production/untitled/untitled.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test_algorithm/untitled/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Resolver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Resolver/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Resolver/Algorithm/Day1No262.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Resolver/Algorithm/Day1No262.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Day2No264.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Day2No264.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Resolver/Algorithm/Day2No264.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Resolver/Algorithm/Day2No264.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,25 +132,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GIT - Bai tap/c0523g1_bui_bao_thien_module6/Algorithm_Resolver&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "last_opened_file_path": "D:/GIT - Bai tap/c0523g1_bui_bao_thien_module6/Algorithm_Resolver",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Day2No263">
+}]]></component>
+  <component name="RunManager" selected="Application.Day2No264">
     <configuration name="Day1No262" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithm.Day1No262" />
       <module name="Algorithm_Resolver" />
@@ -195,8 +193,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day2No263" />
         <item itemvalue="Application.Day2No264" />
+        <item itemvalue="Application.Day2No263" />
         <item itemvalue="Application.Day1No262" />
       </list>
     </recent_temporary>
@@ -211,11 +209,23 @@
       <updated>1701239825965</updated>
       <workItem from="1701239826977" duration="7228000" />
       <workItem from="1701251184933" duration="1982000" />
-      <workItem from="1701263749416" duration="419000" />
+      <workItem from="1701263749416" duration="2146000" />
+      <workItem from="1701306889978" duration="8361000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Algorithm/Day2No264.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

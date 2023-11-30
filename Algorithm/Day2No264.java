@@ -9,21 +9,27 @@ public class Day2No264 {
      * output: sorted string - ascending
      */
     static String ascendingString(String inputString) {
-        StringBuilder result = new StringBuilder();
+        char[] charArray = inputString.toCharArray();
 
-        for (int i = 0; i < inputString.length(); i++) {
-            char minChar = inputString.charAt(i);
-            for (int j = 1; j < inputString.length(); j++) {
-                if (inputString.charAt(j) < inputString.charAt(i)) {
-                    minChar = inputString.charAt(j);
+        for (int i = 0; i < charArray.length - 1; i++) {
+            for (int j = i + 1; j < charArray.length; j++) {
+                if (charArray[j] < charArray[i]) {
+                    char temp = charArray[i];
+                    charArray[i] = charArray[j];
+                    charArray[j] = temp;
                 }
             }
-            result.append(minChar);
+        }
+
+        StringBuilder result = new StringBuilder();
+        for (int i = 0; i < charArray.length; i++) {
+            result.append(charArray[i]);
         }
         return result.toString();
     }
 
     public static void main(String[] args) {
-        System.out.println("result: " + ascendingString("aAbBc"));
+        String test = "dacbcddd";
+        System.out.println("string ascending: " + ascendingString(test));
     }
 }
