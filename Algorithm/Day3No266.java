@@ -33,9 +33,4 @@ public class Day3No266 {
 
         return result;
     }
-
-    public static void main(String[] args) {
-        String test = "abc        acb abc aaa aaa a a";
-        System.out.println(repeatString(test));
-    }
 }
