@@ -14,9 +14,8 @@ public class Day2No263 {
         Map<String, Integer> result = new HashMap<>();
         String[] strings = inputString.split(" ");
 
-
-        for (int i = 0; i < strings.length; i++) {
-            String temp = strings[i].trim();
+        for (String string : strings) {
+            String temp = string.trim();
             if (!result.containsKey(temp)) {
                 result.put(temp.trim(), 1);
             } else {

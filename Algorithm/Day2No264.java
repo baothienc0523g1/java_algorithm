@@ -25,9 +25,4 @@ public class Day2No264 {
         }
         return result.toString();
     }
-
-    public static void main(String[] args) {
-        String test = "dacbcddd";
-        System.out.println("string ascending: " + ascendingString(test));
-    }
 }
