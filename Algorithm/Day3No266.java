@@ -17,10 +17,10 @@ public class Day3No266 {
         String[] strings = inputString.split(" ");
 
         for (String string : strings) {
-            String temp = string.trim();
-            if (!stringsMap.containsKey(temp)) {
+            String temp = string;
+            if (!stringsMap.containsKey(temp) && !temp.isBlank()) {
                 stringsMap.put(temp, 1);
-            } else {
+            } else if (stringsMap.containsKey(temp) && !temp.isBlank()) {
                 stringsMap.put(temp, stringsMap.get(temp) + 1);
             }
         }
@@ -35,7 +35,7 @@ public class Day3No266 {
     }
 
     public static void main(String[] args) {
-        String test = "abc   acb abc aaa aaa a a";
+        String test = "abc        acb abc aaa aaa a a";
         System.out.println(repeatString(test));
     }
 }
