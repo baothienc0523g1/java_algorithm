@@ -6,6 +6,10 @@ import java.util.Map;
 
 public class Day4No267 {
 
+    /**
+     * input: ArrayList
+     * output: Map - Repeated string with count
+     */
     static Map<String, Integer> appearCount(ArrayList<String> inputArray) {
         Map<String, Integer> result = new HashMap<>();
 
