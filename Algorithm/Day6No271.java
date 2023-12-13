@@ -1,8 +1,5 @@
 package Algorithm;
 
-
-import java.util.ArrayList;
-
 public class Day6No271 {
 
     /**
@@ -20,6 +17,7 @@ public class Day6No271 {
             initB = temp;
         }
     }
+
     public static void main(String[] args) {
         fibonacciArray();
     }
