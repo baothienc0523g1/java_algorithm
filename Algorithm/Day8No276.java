@@ -25,6 +25,7 @@ public class Day8No276 {
             }
         }
 
+
         return result.toString();
     }
 }

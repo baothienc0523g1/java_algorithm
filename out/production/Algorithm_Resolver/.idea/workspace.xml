@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1150dbf-faf0-4f9f-b17d-39502bde2a73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/Day7No273.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Day7No274.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Day8No275.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Day9No277.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/Day9No278.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Axios test/.idea/Axios test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Axios test/axios_test/.idea/axios_test.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Axios test/axios_test/src/components/List.js" afterDir="false" />
@@ -108,9 +107,10 @@
       <change afterPath="$PROJECT_DIR$/../test_algorithm/untitled/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test_algorithm/untitled/out/production/untitled/untitled.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test_algorithm/untitled/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/Day6No271.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Day6No271.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/Day8No276.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Day8No276.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Resolver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Resolver/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Resolver/Algorithm/Day6No271.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Resolver/Algorithm/Day6No271.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm_Resolver/Algorithm/Day8No275.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm_Resolver/Algorithm/Day8No275.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,46 +156,7 @@
       <recent name="Algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day8No275">
-    <configuration name="Day5No269" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.Day5No269" />
-      <module name="Algorithm_Resolver" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day6No271" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.Day6No271" />
-      <module name="Algorithm_Resolver" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day7No273" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithm.Day7No273" />
-      <module name="Algorithm_Resolver" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day9No278">
     <configuration name="Day7No274" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithm.Day7No274" />
       <module name="Algorithm_Resolver" />
@@ -222,13 +183,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day8No276" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Day8No276" />
+      <module name="Algorithm_Resolver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day9No277" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Day9No277" />
+      <module name="Algorithm_Resolver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day9No278" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Day9No278" />
+      <module name="Algorithm_Resolver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day9No278" />
+        <item itemvalue="Application.Day9No277" />
+        <item itemvalue="Application.Day8No276" />
         <item itemvalue="Application.Day8No275" />
         <item itemvalue="Application.Day7No274" />
-        <item itemvalue="Application.Day7No273" />
-        <item itemvalue="Application.Day6No271" />
-        <item itemvalue="Application.Day5No269" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +254,8 @@
       <workItem from="1701827448506" duration="3428000" />
       <workItem from="1701913432526" duration="3503000" />
       <workItem from="1702275762351" duration="4121000" />
-      <workItem from="1702347187674" duration="398000" />
+      <workItem from="1702347187674" duration="1757000" />
+      <workItem from="1702475512263" duration="5235000" />
     </task>
     <servers />
   </component>
