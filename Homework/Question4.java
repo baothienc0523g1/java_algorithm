@@ -39,6 +39,7 @@ public class Question4 implements Comparable<Question4> {
 
     @Override
     public int compareTo(Question4 o) {
-        return this.id - o.id;
+        return this.id.compareTo(o.id);
+        //so sánh id của 2 đối tượng
     }
 }
