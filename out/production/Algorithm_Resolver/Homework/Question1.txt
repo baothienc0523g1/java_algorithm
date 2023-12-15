@@ -1,0 +1,6 @@
+
+     *  Interface IService triển khai phương thức getAll().
+     *  Các Interface Service khác nếu muốn có phương thức getAll() này có thể extends IService.
+     *  Các Class ProductService, CustomerService, EmployeeService impl các interface tương ứng
+     *  Các Class Service có phương thức getAll() và override cho phù hợp với ngữ cảnh của mình.
+     *  -> sử dụng trong trường hợp nhiều Class không có mqh kế thừa nhưng muốn có một hành vi chung (CAN - DO)
