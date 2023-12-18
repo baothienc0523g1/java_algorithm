@@ -1,11 +1,10 @@
 package Algorithm;
 
-import java.util.ArrayList;
 
 
 public class Day10No280 {
 
-    /**
+    /** find mang doi xung
      * input:
      * output: symmetry array
      */
