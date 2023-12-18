@@ -11,7 +11,7 @@ public class Day11No281 {
         System.out.println("before: " + inputArray[0] + ", " + inputArray[1]);
         inputArray[1] = inputArray[1] + inputArray[0];
         inputArray[0] = inputArray[1] - inputArray[0];
-        inputArray[1] = inputArray[0] - inputArray[1];
+        inputArray[1] = inputArray[1] - inputArray[0];
         System.out.println("after: " + inputArray[0] + ", " + inputArray[1]);
     }
 }
