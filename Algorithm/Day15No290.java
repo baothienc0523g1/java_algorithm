@@ -1,12 +1,12 @@
 package Algorithm;
 
-import java.util.*;
+import java.util.ArrayList;
 
-public class Day15No289 {
+public class Day15No290 {
 
     /**
-     * loại bỏ giá trị trùng lặp trong 1 mảng*/
-    public static ArrayList<Integer> no289(ArrayList<Integer> arrayList) {
+     * lấy các giá trị không trùng lặp trong 1 mảng*/
+    public static ArrayList<Integer> day15No290(ArrayList<Integer> arrayList) {
        ArrayList<Integer> resultList = new ArrayList<>();
 
        for (int temp : arrayList) {
